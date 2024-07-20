@@ -2,10 +2,9 @@
 Basic discord bot created in Python using the 'discord.py' library with additional functionality for playing music from youtube using 'yt-dlp' and mabye in the future from spotify using 'spotipy'
 
 ## Features
-
--Respond to commands in DIscord channels
--Play music and playlists from YouTube
--Custom commands and functionality
+    Respond to commands in DIscord channels
+    Play music and playlists from YouTube
+    Custom commands and functionality
 
 ## Installation
 1. Clone the repository
